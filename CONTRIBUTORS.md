@@ -1,2 +1,2 @@
 # Contributors
-- [Sommani](sommani@github.com)
+- [Nut](diffway09@github.com)
